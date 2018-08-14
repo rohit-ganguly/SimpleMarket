@@ -26,6 +26,7 @@ A cross-platform mobile application written in Dart using the Flutter framework 
   
 #### 2. User Interface mockup + revision (coming soon!)
 ![Mockup 1](https://i.imgur.com/JijwQpY.png)
+
 Here's the first mockup I put together.
 Some thoughts:
 - 3 tabs, 1 for news, 1 for lessons the user can watch on the stock market, and 1 for the market update itself.
