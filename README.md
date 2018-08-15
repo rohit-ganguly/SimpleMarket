@@ -37,4 +37,6 @@ Some thoughts:
 - There's a logo in place, this will be the logo as I continue making the app.
 - In the market page, there's going to be 2 tabs which can be switched between on the top underneath the logo, representing Bitcoin and the NYSE. I'm also considering to add an invisible app bar with a settings icon to toggle certain features/color scheme (will update in future versions).
 
+![Coded Version 1](https://i.imgur.com/g6yEPMy.png)
 
+Here's what the UI looks like after one short day of coding.
