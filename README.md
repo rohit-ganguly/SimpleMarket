@@ -1,6 +1,7 @@
 # SimpleMarket
 
-|Dart + Flutter|
+|Dart|
+
 A cross-platform mobile application written in Dart using the Flutter framework that provides a simple way of keeping up with finance, mainly the New York Stock Exchange (NYSE) and major Cryptocurrency market.
 
 ## What's going to happen here?
@@ -34,4 +35,6 @@ Some thoughts:
 - 3 tabs, 1 for news, 1 for lessons the user can watch on the stock market, and 1 for the market update itself.
 - The color scheme is loosely based off of Robinhood, but more easy on the eyes.
 - There's a logo in place, this will be the logo as I continue making the app.
-- In the market page, there's going to be 2 tabs which can be switched between on the top underneath the logo. I'm also considering to add an invisible app bar with a settings icon to toggle certain features/color scheme (will update in future versions).
+- In the market page, there's going to be 2 tabs which can be switched between on the top underneath the logo, representing Bitcoin and the NYSE. I'm also considering to add an invisible app bar with a settings icon to toggle certain features/color scheme (will update in future versions).
+
+
