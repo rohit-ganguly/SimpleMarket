@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# simple_market
-
-SimpleMarket Flutter app
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
 =======
 # SimpleMarket
 
@@ -50,4 +41,3 @@ Some thoughts:
 ![Coded Version 1](https://i.imgur.com/g6yEPMy.png)
 
 Here's what the UI looks like after one short day of coding.
->>>>>>> c33502be0defaaaa2539449c8252773c04002245
