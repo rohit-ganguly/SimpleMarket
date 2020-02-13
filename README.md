@@ -1,4 +1,3 @@
-=======
 # SimpleMarket
 
 ![Dart Logo](https://manifesto.co.uk/wp-content/uploads/2014/08/dart-logo-300x79.png)
